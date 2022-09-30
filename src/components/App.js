@@ -18,6 +18,7 @@ function App() {
       setScore((score) => score + 1);
     }
   }
+  
 
   return (
     <main>
